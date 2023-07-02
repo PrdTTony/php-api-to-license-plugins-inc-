@@ -36,5 +36,7 @@ $config = new Config([
         
         1. If you want to make the license never expire type: forever
         2. If you want to add a date use this format: year-month-day  (Example: 2024-05-21)
+
+Forked from here and more details about the api: https://github.com/mevdschee/php-crud-api
   
   
