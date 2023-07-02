@@ -30,7 +30,7 @@ $config = new Config([
   
   Insert into the table you just created the Server Name in **server_name** column 
 
-  Insert the ip and port in this format __**ip:port**__ (Example: 1.1.1.1:1) 
+  Insert the server ip and port in this format __**ip:port**__ (Example: 1.1.1.1:1) 
   
   !! At **Expires** column you have two options: 
         
