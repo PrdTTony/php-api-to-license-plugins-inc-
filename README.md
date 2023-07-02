@@ -24,7 +24,7 @@ $config = new Config([
 ```
   2. Go to phpmyadmin and create a new table. Import the ServersLicense.sql file into the table.
 
-  3. Add your api url to __**sUrl**__ in *plugin_protect.inc* (line *55*)
+  3. Add your api url to __**sUrl**__ in *plugin_protect.inc* file (line *55*)
 
      !!! Respect this format: __**https://yourwebsiteurl/api.php/records/ServersLicense**__
 
