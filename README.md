@@ -26,6 +26,15 @@ $config = new Config([
 
      !!! Respect this format: __**https://yourwebsiteurl/api.php/records/Db_Table_Name_YouChoseAtSecondStep**__
 
-# How to add a server to DB
+# How to license a server
+  
+  Insert into the table you just created the Server Name in **server_name** column 
+
+  Insert the ip and port in this format __**ip:port**__ (Example: 1.1.1.1:1) 
+  
+  !! At **Expires** column you have two options: 
+        
+        1. If you want to make the license never expire type: forever
+        2. If you want to add a date use this format: year-month-day  (Example: 2024-05-21)
   
   
