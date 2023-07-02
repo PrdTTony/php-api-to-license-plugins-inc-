@@ -7,6 +7,7 @@ MySQL 5.6 / MariaDB 10.0 or higher for spatial features in MySQL
 
 # Installation
 This is a single file application! Upload "api.php" somewhere and enjoy!
+
 Add __**#include <ttony_protect>**__ to the top of your plugins source code
 
 # Configuration
