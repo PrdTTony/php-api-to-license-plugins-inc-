@@ -1,4 +1,4 @@
-# php-api-to-license-plugins-inc-
+# php-api-to-license-plugins-
 Include file and php api to license your plugins to ips:ports
 
 # Requirements
