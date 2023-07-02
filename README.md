@@ -24,7 +24,7 @@ $config = new Config([
 
   3. Add your api url to __**sUrl**__ in *plugin_protect.inc* (line *55*)
 
-     !!! Respect this format: __**https://yourwebsiteurl/api.php/records/Db_Table_Name_YouChoseAtSecondStep**__
+     !!! Respect this format: __**https://yourwebsiteurl/api.php/records/ServersLicense**__
 
 # How to license a server
   
