@@ -6,6 +6,8 @@ PHP 7.0 or higher with PDO drivers enabled for one of these database systems:
 
   MySQL 5.6 / MariaDB 10.0 or higher for spatial features in MySQL
 
+SteamWorks running on the server
+
 # Installation
 This is a single file application! Upload "api.php" somewhere and enjoy!
 
